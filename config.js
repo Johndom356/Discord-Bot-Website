@@ -5,7 +5,7 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Security",
   //BotName
   inviteLink:
     "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
@@ -39,7 +39,7 @@ const config = {
   ],
   //Bot Features
   serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  memberCount: 900, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
